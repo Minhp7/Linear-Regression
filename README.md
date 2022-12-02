@@ -1,16 +1,9 @@
-# AssignmentSkeleton
+# Linear regression to predict Men 100m sprint times from 2023-2030
 
-An example layout students can use when submitting assingments for the Sports Analytics
-course at Concordia University.
-
-If forking/cloning this repository, remember to set it to “private”.
-Then when submitting your assignment/project, share it with me ([jwsmith@wyattai.com](mailto:jwsmith@wyattai.com)).
-
-## Assignment/Project Number ?
+## Assignment 4
 
 ## Brief description of Assignment/Project
-
-## Group Members
+First, I web scrape wikipedia to get men 100m record times ever since 1964 until the present day. Then I apply a linear regression classification algorithm to predict the times from 2023 until 2030.
 
 ## Setup
 
